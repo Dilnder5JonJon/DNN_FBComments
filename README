@@ -1,0 +1,7 @@
+Facebook Comments
+
+A free and really simple Facebook Comments module for DNN. This module renders comments in three modes:
+
+    Page – Add to page, Facebook comments widget appears
+    DNN Blog – Add to main blog page, widget appears only on individual blog entries.
+    Custom – Supply your own query string parameter name for conditional rendering on dynamic pages.
